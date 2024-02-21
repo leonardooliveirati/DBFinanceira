@@ -1,5 +1,0 @@
-Conceito de Microsserviços:
-
-Microsserviços são uma abordagem arquitetônica para desenvolver uma aplicação como um conjunto de serviços pequenos, independentes e escaláveis. Cada serviço é construído em torno de uma funcionalidade de negócio específica e pode ser desenvolvido, implantado, gerenciado e escalado de forma independente dos outros serviços. Eles se comunicam geralmente por meio de APIs, usando protocolos como HTTP/REST ou mensagens assíncronas.
-
-Um exemplo de aplicação de microsserviços pode ser um sistema de comércio eletrônico, onde cada funcionalidade (por exemplo, autenticação de usuários, carrinho de compras, gerenciamento de pedidos, catálogo de produtos) é implementada como um serviço separado. Abaixo está um diagrama simplificado que representa essa arquitetura:
